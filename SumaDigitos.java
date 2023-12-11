@@ -5,9 +5,9 @@ import java.util.Scanner;
  */
 
 /**
- * @author Tarde
+ * @author ricardo
  *
- */
+ */estoy modificando este archivo para ver si hace cambios en la version que tengo en github
 public class SumaDigitos {
 
 	/
